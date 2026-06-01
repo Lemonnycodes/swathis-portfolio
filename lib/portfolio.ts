@@ -1,11 +1,11 @@
 // ============================================================================
 //  EDIT THIS FILE — it drives the entire site and the "Ask my portfolio" chat.
-//  Content is pulled from Swathi Sankar's resume. Employer NAMES are
+//  Content is pulled from Swathi Dharmasankaran's resume. Employer NAMES are
 //  anonymized on purpose; the achievements are real. Adjust anything freely.
 // ============================================================================
 
 export const profile = {
-  name: "Swathi Sankar",
+  name: "Swathi Dharmasankaran",
   // Stylized handle used as the logo/wordmark in the nav and footer.
   handle: "swathiiii",
   // Short role line shown under your name and in the browser tab.
